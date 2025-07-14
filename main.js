@@ -36,30 +36,47 @@
 // -- Data Type in JS
 
 // String
-console.log("Islem Fortas");
-console.log(typeof"Islem Fortas");
+// console.log("Islem Fortas");
+// console.log(typeof"Islem Fortas");
 
-// Number
-console.log(typeof 10000);
+// // Number
+// console.log(typeof 10000);
 
-// Number
-console.log(typeof 10000.99);
+// // Number
+// console.log(typeof 10000.99);
 
-// Array => Object
-console.log(typeof [10,15,17]);
+// // Array => Object
+// console.log(typeof [10,15,17]);
 
-// Array => Object
-console.log(typeof ["Islem", "Anes", "Ahmed"]);
+// // Array => Object
+// console.log(typeof ["Islem", "Anes", "Ahmed"]);
 
-// Object
-console.log(typeof {name: 'islem', age: 26, country :'Algeria'});
+// // Object
+// console.log(typeof {name: 'islem', age: 26, country :'Algeria'});
 
-// Object
-console.log(typeof true);
+// // Object
+// console.log(typeof true);
 
-console.log(typeof false);
+// console.log(typeof false);
 
-console.log(typeof null);
+// console.log(typeof null);
 
-// Undefined
-console.log(typeof undefined);
+// // Undefined
+// console.log(typeof undefined);
+
+// Variables
+
+// Styntax ( Keyword | Variable name | Assignment Operator | Value )
+
+// var user = "Fortas";
+// var age = 26;
+
+// console.log(user);
+// console.log(user);
+// console.log(user);
+// console.log(age);
+// console.log(hello);
+
+// hello.innerHTML = "Hello World";
+
+//  Loosely Typed vs Strongly Typed
