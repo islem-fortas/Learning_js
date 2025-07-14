@@ -32,3 +32,34 @@
 // Assignment 06
 // console.log("Iam In Console");
 // document.write("Iam In Page");
+
+// -- Data Type in JS
+
+// String
+console.log("Islem Fortas");
+console.log(typeof"Islem Fortas");
+
+// Number
+console.log(typeof 10000);
+
+// Number
+console.log(typeof 10000.99);
+
+// Array => Object
+console.log(typeof [10,15,17]);
+
+// Array => Object
+console.log(typeof ["Islem", "Anes", "Ahmed"]);
+
+// Object
+console.log(typeof {name: 'islem', age: 26, country :'Algeria'});
+
+// Object
+console.log(typeof true);
+
+console.log(typeof false);
+
+console.log(typeof null);
+
+// Undefined
+console.log(typeof undefined);
