@@ -80,3 +80,40 @@
 // hello.innerHTML = "Hello World";
 
 //  Loosely Typed vs Strongly Typed
+
+
+
+// console.log(10 + "Islem");
+// console.log(10 - "Islem");
+// console.log(typeof NaN );
+
+
+
+// // Assignment Operator 
+// let a = 10;
+
+// a = a + 20; 
+
+// a = a + 70;
+
+// a += 100;
+
+// a -= 50;
+
+// a /= 50;
+// console.log(a);
+
+let d = "-100";
+let e = "20";
+let f = 30;
+let g = true;
+
+
+
+console.log(-d * e); // must equal 2000
+console.log(++e*++g + -d + ++f); // must equal 173 
+
+// console.log(+d); // try coercing string to number
+// console.log(+e);
+// console.log(+g);
+// console.log(+f);
